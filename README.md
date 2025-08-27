@@ -8,3 +8,4 @@
  
  4. Concepts Covered:- Arrays for storing student records Interfaces for defining operations - Custom Exception (StudentNotFoundException) - Exception Handling using try-catch
 
+<img width="771" height="827" alt="image" src="https://github.com/user-attachments/assets/c97562cd-0633-4057-bb39-b1e44288d1e6" />
